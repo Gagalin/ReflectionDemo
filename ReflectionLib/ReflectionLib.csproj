@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>D:\A-CODECODECODE\CSharp\CODE-SELF-DEMO\REFLECTION-DEMO\ReflectionDemo\ReflectionDemo\bin\Debug\netcoreapp3.0\</OutputPath>
+  </PropertyGroup>
+
+</Project>
